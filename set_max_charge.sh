@@ -1,0 +1,1 @@
+sudo ./smcutil -w BCLM $1
